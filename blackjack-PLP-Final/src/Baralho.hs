@@ -81,7 +81,7 @@ cartaASCII = unlines . map cartaString
 valorCartaToString :: Carta -> String
 valorCartaToString (Carta x _) =
     case x of
-        As     -> "1"
+        As     -> "A"
         Dois   -> "2"
         Tres   -> "3"
         Quatro -> "4"
@@ -90,4 +90,7 @@ valorCartaToString (Carta x _) =
         Sete   -> "7"
         Oito   -> "8"
         Nove   -> "9"
-        _      -> "10"
+        Dez    -> "10"
+        Rei    -> "K"
+        Dama   -> "Q"
+        Valete -> "J"
