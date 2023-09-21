@@ -10,7 +10,7 @@ O objetivo principal do jogo é ter mais pontos do que o dealer sem ultrapassar 
 - Selecionar o valor das apostas.
 - Escolher entre opções de jogadas, como **stand**, **hit**, **dobra** ou **split”**.
 
-##Como executar:
+## Como executar:
 Certifique-se de que suas configurações de região permitam usar Unicode-UTF8 para suporte de linguagem mundial.
 Caso sua máquina não esteja configurada, siga as seguintes instruções (Windowns):
 1. Vá no Painel de Controle e busque por Região
