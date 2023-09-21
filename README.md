@@ -8,7 +8,7 @@ O objetivo principal do jogo é ter mais pontos do que o dealer sem ultrapassar 
 - Iniciar o jogo com um valor padrão disponível para aposta.
 - Selecionar a quantidade de jogadores.
 - Selecionar o valor das apostas.
-- Escolher entre opções de jogadas, como **stand**, **hit**, **dobra** ou **split”**.
+- Escolher entre opções de jogadas, como **stand**, **hit**, **dobra** ou **split**.
 
 ## Como executar:
 Certifique-se de que suas configurações de região permitam usar Unicode-UTF8 para suporte de linguagem mundial.
