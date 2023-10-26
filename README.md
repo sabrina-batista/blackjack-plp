@@ -10,7 +10,7 @@ O objetivo principal do jogo é ter mais pontos do que o dealer sem ultrapassar 
 - Selecionar o valor das apostas.
 - Escolher entre opções de jogadas, como **stand**, **hit**, **dobra** ou **split**.
 
-## Como executar:
+## Como executar (Haskell):
 Certifique-se de que suas configurações de região permitam usar Unicode-UTF8 para suporte de linguagem mundial.
 Caso sua máquina não esteja configurada, siga as seguintes instruções (Windowns):
 1. Vá no Painel de Controle e busque por Região
@@ -23,3 +23,10 @@ Ao extrair o arquivo .zip do sistema, entre no diretório principal e execute o 
 cabal run blackjack-exe
 ```
 
+## Como executar (Prolog):
+
+Ao extrair o arquivo .zip do sistema, entre no diretório principal e execute o comando:
+```
+swipl blackjack.pl
+```
+Para iniciar o jogo digite ``` main. ```.
