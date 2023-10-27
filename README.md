@@ -25,7 +25,7 @@ cabal run blackjack-exe
 
 ## Como executar (Prolog):
 
-Ao extrair o arquivo .zip do sistema, entre no diretório principal e execute o comando:
+Ao fazer o download do programa, entre no diretório principal e execute o comando:
 ```
 swipl blackjack.pl
 ```
